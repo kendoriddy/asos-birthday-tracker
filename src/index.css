@@ -78,7 +78,7 @@ p {
 }
 .container {
   width: 90vw;
-  margin: 5rem;
+  margin: 5rem 5rem 200px 5rem;
   background: #e8eaf6;
   max-width: 460px;
   border-radius: 0.25rem;
