@@ -3,10 +3,11 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
-    <div className="container" style={{textAlign:"center"}}>
+    <div className='container'>
       <h3>ASOS'13 Birthday Records</h3>
-      <Link to="/empdetails">Members Details</Link><br />
-      <Link to="/empbirthday">Today's celebrants</Link>
+      <Link to='/empdetails'>Members Details</Link>
+      <br />
+      <Link to='/empbirthday'>Today's celebrants</Link>
     </div>
   );
 };

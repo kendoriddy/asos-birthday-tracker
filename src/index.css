@@ -78,11 +78,13 @@ p {
 }
 .container {
   width: 90vw;
-  margin: 5rem 5rem 200px 5rem;
+  margin: 5rem 0 200px 0;
   background: #e8eaf6;
+  overflow: hidden;
   max-width: 460px;
   border-radius: 0.25rem;
   padding: 1.5rem 2rem;
+  text-align: center;
   box-shadow: 0 5px 15px #00000066;
 }
 
