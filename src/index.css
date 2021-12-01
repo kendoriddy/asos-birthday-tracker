@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800&display=swap");
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Mulish", sans-serif;
+  background: #283593;
+  color: #102a42;
+  line-height: 1.5;
+  font-size: 0.875rem;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: 0.1rem;
+  text-transform: capitalize;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+}
+
+h1 {
+  font-size: 3rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.25rem;
+}
+h4 {
+  font-size: 0.875rem;
+}
+
+p {
+  margin-bottom: 1.2rem;
+  color: #617d98;
+}
+
+@media screen and (min-width: 800px) {
+  h1 {
+    font-size: 4rem;
+  }
+  h2 {
+    font-size: 2.5rem;
+  }
+  h3 {
+    font-size: 1.75rem;
+  }
+  h4 {
+    font-size: 1rem;
+  }
+  body {
+    font-size: 1rem;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    line-height: 1;
+  }
+}
+.container {
+  width: 90vw;
+  margin: 5rem;
+  background: #e8eaf6;
+  max-width: 460px;
+  border-radius: 0.25rem;
+  padding: 1.5rem 2rem;
+  box-shadow: 0 5px 15px #00000066;
+}
+
+.container h3 {
+  font-weight: 600;
+  text-transform: none;
+  margin-bottom: 2rem;
+}
+
+.container a {
+  color: #e8eaf6;
+  display: block;
+  width: 100%;
+  border-color: transparent;
+  background: #283593;
+  margin: 0.5rem auto 0 auto;
+  text-transform: capitalize;
+  font-size: 1.2rem;
+  padding: 0.5rem 0;
+  letter-spacing: 0.1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 3px 3px 5px #000000;
+}
+
+.error_page {
+  color: #283593;
+  background: #e8eaf6;
+  width: 60vw;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.person {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 0.75rem;
+  margin-bottom: 1.5rem;
+  align-items: center;
+}
+.person img {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 5px 15px #0000001a;
+}
+.person h4 {
+  font-weight: 800;
+  margin-bottom: 0.35rem;
+}
+
+.person p {
+  margin-bottom: 0rem;
+}
+
+div.emp_details {
+  margin-left: 20px;
+}
