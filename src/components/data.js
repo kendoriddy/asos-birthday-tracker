@@ -178,14 +178,6 @@ const data = [
     gender: "Female",
     image: `${avtarFemale}`,
   },
-  {
-    id: 22,
-    name: "Brighto LayoBright",
-    dob: "01 December",
-    age: 25,
-    gender: "Male",
-    image: `${avtarMale}`,
-  },
 ];
 
 export default data;
