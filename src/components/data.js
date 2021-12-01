@@ -186,6 +186,14 @@ const data = [
     gender: "Female",
     image: `${avtarFemale}`,
   },
+  {
+    id: 24,
+    name: "Miracle Owolabi",
+    dob: "18 December",
+    age: 25,
+    gender: "Male",
+    image: `${avtarMale}`,
+  },
 ];
 
 export default data;
