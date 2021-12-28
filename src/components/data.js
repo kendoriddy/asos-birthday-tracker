@@ -84,7 +84,7 @@ const data = [
   },
   {
     id: 11,
-    name: "Yusuf Taiwo",
+    name: "Taiwo Oyeronke",
     dob: "16 August",
     age: 25,
     gender: "Female",
@@ -92,7 +92,7 @@ const data = [
   },
   {
     id: 12,
-    name: "Yusuf Kehinde",
+    name: "Kehinde Oyeroke",
     dob: "16 August",
     age: 25,
     gender: "Female",
@@ -140,8 +140,8 @@ const data = [
   },
   {
     id: 18,
-    name: "Oyenike Oyenike",
-    dob: "05 September",
+    name: "Abdurrazaq Oyetunji",
+    dob: "08 February",
     age: 25,
     gender: "Female",
     image: `${avtarFemale}`,
@@ -193,6 +193,30 @@ const data = [
     age: 25,
     gender: "Male",
     image: `${avtarMale}`,
+  },
+  {
+    id: 25,
+    name: "Temitayo Oke",
+    dob: "12 February",
+    age: 25,
+    gender: "Female",
+    image: `${avtarFemale}`,
+  },
+  {
+    id: 26,
+    name: "Taiwo Yusuf",
+    dob: "25 December",
+    age: 25,
+    gender: "Female",
+    image: `${avtarFemale}`,
+  },
+  {
+    id: 27,
+    name: "Kehinde Yusuf",
+    dob: "25 December",
+    age: 25,
+    gender: "Female",
+    image: `${avtarFemale}`,
   },
 ];
 
