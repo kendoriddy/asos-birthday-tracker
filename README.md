@@ -9,7 +9,7 @@ The project contains the List, Add and Contact page.
 - HTML5,
 - React JS
 - CSS3
-## Live Demo
+## Live Link
 
 [Live Link](https://asostracker.netlify.app/)
 
