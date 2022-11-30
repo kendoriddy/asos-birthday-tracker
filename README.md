@@ -1,6 +1,6 @@
 # ASOS Birthday Tracker
 
-This website displays a list of books a users have added. It allows you to add and remove books from that list also. The goal of this project is to build a simple multipage page responsive book website.
+This website displays a list of ASOS set '13 students and their birth dates. It will also keep track of those having birthdays everyday and notify the admin accordingly.
 
 In this project, I setup Html-CSS-Javascript linter following the guildlines stated in the Html-CSS-Javascript limter config documentation of Microverse. I followed the mobile first approach while building the website, and the website is responsive and interactive on mobile and desktop.
 
