@@ -11,7 +11,7 @@ The project contains the List, Add and Contact page.
 - CSS3
 ## Live Demo
 
-[Live Demo Link](https://coming-soon/)
+[Live Demo Link](https://asostracker.netlify.app/)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
