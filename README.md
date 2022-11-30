@@ -1,34 +1,76 @@
-# Getting Started with Create React App
+# ASOS Birthday Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-I created a platform where the birthday of members of my secondary school classmates is being tracked.
+This website displays a list of books a users have added. It allows you to add and remove books from that list also. The goal of this project is to build a simple multipage page responsive book website.
 
-## Available Scripts
+In this project, I setup Html-CSS-Javascript linter following the guildlines stated in the Html-CSS-Javascript limter config documentation of Microverse. I followed the mobile first approach while building the website, and the website is responsive and interactive on mobile and desktop.
 
-In the project directory, you can run:
+The project contains the List, Add and Contact page.
 
-### `npm start`
+## Built With
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- HTML5,
+- Javascript
+- CSS3
+## Live Demo
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Live Demo Link](https://kendoriddy.github.io/awesome-books-v1/)
 
-### `npm test`
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Prerequisites
+- Have a good knowledge on how to parse UI designs
+- Have VSCode or other text editor installed. [Link to download VSCode](https://code.visualstudio.com/download)
+- Install node package. [Link to download node](https://nodejs.org/en/download/)
+- Have git installed.[Link to download git](https://git-scm.com/downloads)
+- Create a github repository.
 
-### `npm run build`
+## Setup
+- git clone https://github.com/kendoriddy/awesome-books-v1.git
+- cd awesome-books-v1/
+-Follow the HTML-CSS linter configuration to docs to setup linters [Link to Microverse linter docs](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Run tests
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+For tracking linters errors locally, you need to follow these steps:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- For tracking linter errors in HTML file run:
+`npx hint .`
+- For tracking linter errors in CSS file run:
+`npx stylelint "**/*.{css,scss}"`
+- For tracking linter errors in Javascript file run:
+`npx eslint .`
 
-### `npm run eject`
+## Deployment
 
+- Use GitHub pages to deploy website
+- For more information about publishing sources, see [About github pages](https://pages.github.com/)
+
+## Contributors
+
+## Author 1
+
+👤 **Kehinde Ridwan Onifade**
+
+- GitHub: [Kenny](https://github.com/kendoriddy)
+- LinkedIn: [Kenny](https://www.linkedin.com/in/kehinde-onifade)
+
+## Autor 2
+**Ernest Lasten**
+- GitHub: [@githubhandle](https://github.com/Lasten-Ernest)
+- Twitter: [@twitterhandle]
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
