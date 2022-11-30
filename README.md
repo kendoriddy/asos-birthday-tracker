@@ -2,18 +2,16 @@
 
 This website displays a list of ASOS set '13 students and their birth dates. It will also keep track of those having birthdays everyday and notify the admin accordingly.
 
-In this project, I setup Html-CSS-Javascript linter following the guildlines stated in the Html-CSS-Javascript limter config documentation of Microverse. I followed the mobile first approach while building the website, and the website is responsive and interactive on mobile and desktop.
-
 The project contains the List, Add and Contact page.
 
 ## Built With
 
 - HTML5,
-- Javascript
+- React JS
 - CSS3
 ## Live Demo
 
-[Live Demo Link](https://kendoriddy.github.io/awesome-books-v1/)
+[Live Demo Link](https://coming-soon/)
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
@@ -26,9 +24,8 @@ To get a local copy up and running follow these simple example steps.
 - Create a github repository.
 
 ## Setup
-- git clone https://github.com/kendoriddy/awesome-books-v1.git
-- cd awesome-books-v1/
--Follow the HTML-CSS linter configuration to docs to setup linters [Link to Microverse linter docs](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
+- git clone https://github.com/kendoriddy/asos-birthday-tracker.git
+- cd asos-birthday-tracker/
 
 ## Run tests
 
@@ -54,11 +51,6 @@ For tracking linters errors locally, you need to follow these steps:
 
 - GitHub: [Kenny](https://github.com/kendoriddy)
 - LinkedIn: [Kenny](https://www.linkedin.com/in/kehinde-onifade)
-
-## Autor 2
-**Ernest Lasten**
-- GitHub: [@githubhandle](https://github.com/Lasten-Ernest)
-- Twitter: [@twitterhandle]
 
 
 ## 🤝 Contributing
