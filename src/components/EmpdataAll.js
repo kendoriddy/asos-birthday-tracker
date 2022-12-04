@@ -1,7 +1,6 @@
 import React from "react";
 
 const EmpdataAll = ({ ...item }) => {
-  // console.log(employee);
 
   const { id, name, dob, gender, image } = item;
   return (
