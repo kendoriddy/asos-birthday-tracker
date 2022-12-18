@@ -3,7 +3,8 @@ import { Link } from "react-router-dom";
 import data from "../components/data.js";
 import Empdata from "./Empdata.js";
 
-const Empdetails = () => {
+
+const Empbirthday = () => {
   return (
     <div className='container'>
       <h3>Today's Celebrant</h3>
@@ -13,4 +14,4 @@ const Empdetails = () => {
   );
 };
 
-export default Empdetails;
+export default Empbirthday;
